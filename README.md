@@ -1,1 +1,1 @@
-# NovaMin
+# NovaMind
